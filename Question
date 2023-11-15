@@ -1,2 +1,34 @@
 je suis à la recherche d'un contrat d'assurance. Quelles sont les supports que vous proposez ?
 
+----- Prompt -----
+
+
+If you are asked for help in identifying the best insurance product based on the person's profession.
+We must first identify the profession of our interlocutor then follow the following rule if the profession is equal to Student then "Flexible Life" Product else if lawyer then "Maximum Protection" Product else "Forever Secure" Product.
+
+---- Question about product Darjeeling ----
+
+wich management strategy would you recommended a person like me with little know how abouth financial service?
+
+What is monthly savings capacity?
+
+OK
+when i can designate Beneficiary clause ?
+what document do I need to provide in the event of death?
+
+can you explain to me how the floor guarantee works?
+
+Can you explain me the death guarantee ?
+
+explain me the progressive investment ?
+
+
+which insurance product, i have to choose ?
+
+
+
+
+NOT OK
+
+what is the minimum guarantee in the event of death ?
+
